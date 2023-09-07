@@ -1,2 +1,2 @@
-# Advancejs
-adnavce JavaScript
+# Basic js
+Basic JavaScript
